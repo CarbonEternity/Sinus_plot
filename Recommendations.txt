@@ -1,0 +1,2 @@
+This program was developed only for 
+familiarization with the main components Python.Tkinder
